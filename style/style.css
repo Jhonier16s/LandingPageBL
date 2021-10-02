@@ -1,0 +1,41 @@
+
+ html {
+
+    scroll-behavior: smooth;
+}
+
+.img-sobre{
+
+    border-radius: 20px;
+    margin-top: 25px;
+    padding: 10px 10px; 
+    margin-left:  20px ;
+    box-shadow: 10px black;
+    margin-right: 25px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.card {
+    
+    padding: 10px 10px;
+    
+    margin: 10px 10px;
+}
+.card-img-top{
+    border-radius: 30px;
+    max-height: 210px;
+    max-width: 430px;
+    
+}
+.card-group{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+
+#iconos{
+
+    align-items: start;
+
+}
